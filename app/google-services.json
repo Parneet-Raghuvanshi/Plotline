@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730649756113",
+    "project_id": "plotline-ecc3d",
+    "storage_bucket": "plotline-ecc3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730649756113:android:a64a4ed45d7e013aa660f0",
+        "android_client_info": {
+          "package_name": "com.parneet.plotline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730649756113-7djle7ilibikf0cn85p0lndpm9k14sfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwQnodsN_gDEXRCtM1ulkmKc4jP-t11Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730649756113-7djle7ilibikf0cn85p0lndpm9k14sfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
