@@ -1,7 +1,7 @@
 # Plotline
 Simple Edge Detection Library
 
-> Step 1. Add the JitPack repository to your build file
+> Step 1. Add the JitPack repository to your build file / or inside settings.gradle if new gradle system
 
 ```gradle
 allprojects {
@@ -12,10 +12,10 @@ allprojects {
 }
   ```
 
-> Step 2. Add the dependency
+> Step 2. Add the dependency to the app level gradle file
 
 ```gradle
 dependencies {
-	implementation 'com.github.Parneet-Raghuvanshi:Plotline:Tag'
+	implementation 'com.github.Parneet-Raghuvanshi:Plotline:1.0.0'
 }
   ```
