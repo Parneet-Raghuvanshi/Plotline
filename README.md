@@ -5,17 +5,17 @@ Simple Edge Detection Library
 
 ```gradle
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
   ```
 
 > Step 2. Add the dependency
 
 ```gradle
 dependencies {
-	        implementation 'com.github.Parneet-Raghuvanshi:Plotline:Tag'
-	}
+	implementation 'com.github.Parneet-Raghuvanshi:Plotline:Tag'
+}
   ```
