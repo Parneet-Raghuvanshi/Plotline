@@ -10,7 +10,7 @@ allprojects {
 		maven { url 'https://jitpack.io' }
 	}
 }
-  ```
+```
 
 > Step 2. Add the dependency to the app level gradle file
 
@@ -18,4 +18,4 @@ allprojects {
 dependencies {
 	implementation 'com.github.Parneet-Raghuvanshi:Plotline:1.0.0'
 }
-  ```
+```
